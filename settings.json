@@ -8,11 +8,11 @@
   "server": {
     "ip": "skibiditoystationprenium.playserver.pro",
     "port": 12921,
-    "version": "26.1.2",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "hellu",
       ]
     },
     "chat-log": true,
