@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": ".BOT",
+    "username": ".skibiditoystation",
     "password": "",
     "type": "offline"
   },
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "hellu"
+        "hello"
       ]
     },
     "chat-log": false,
